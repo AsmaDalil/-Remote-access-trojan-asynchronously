@@ -1,0 +1,5 @@
+https://codescracker.com/java/program/java-program-shutdown-computer.html
+https://stackoverflow.com/questions/4490454/how-to-take-a-screenshot-in-java
+https://community.oracle.com/tech/developers/discussion/3988026/write-a-java-application-that-allows-users-to-restart-windows-services
+https://stackoverflow.com/questions/54686/how-to-get-a-list-of-current-open-windows-process-with-java
+https://stackoverflow.com/questions/21282327/restart-a-java-application-for-linux-and-windows
